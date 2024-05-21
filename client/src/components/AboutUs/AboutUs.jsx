@@ -34,7 +34,7 @@ const AboutUs = () => {
       </div>
       <div class="card">
         <h2>Mohit Gaikwad</h2>
-        <p>Mechanical Engineering</p>
+        <p>Electrical Engineering</p>
         <p>2022</p>
         <a
           href="https://www.linkedin.com/in/mohit-gaikwad-2baa02283?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
